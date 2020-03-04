@@ -1,0 +1,48 @@
+eeschema (2013-may-18)-stable  >> Creation date: Ср 19 июл 2017 08:33:06
+#Cmp ( order = Reference )
+| C1         10 µF      ; ~           
+| C2         1 µF       ; ~           
+| C3         18 pF       ; ~           
+| C4         100 nF      ; ~           
+| C5         18 pF       ; ~           
+| C6         1 µF       ; ~           
+| DD1        ATMEGA32U2  ; TQFP32      
+| HL1        LED         ; ~           
+| HL2        LED         ; ~           
+| HL3        LED         ; ~           
+| R1         22 Ω       ; ~           
+| R2         22 Ω       ; ~           
+| R3         220 Ω      ; ~           
+| R4         220 Ω      ; ~           
+| R5         220 Ω      ; ~           
+| X1         USB         ; ~           
+| X2         ISP         ; ~           
+| X3         OLED        ; ~           
+| XP1        Keyboard    ; ~           
+| ZQ1        16 MHz      ; ~           
+#End Cmp
+
+#Cmp ( order = Value )
+| 10 µF       C1        ; ~           
+| 1 µF        C2        ; ~           
+| 18 pF        C3        ; ~           
+| 100 nF       C4        ; ~           
+| 18 pF        C5        ; ~           
+| 1 µF        C6        ; ~           
+| ATMEGA32U2   DD1       ; TQFP32      
+| LED          HL1       ; ~           
+| LED          HL2       ; ~           
+| LED          HL3       ; ~           
+| 22 Ω        R1        ; ~           
+| 22 Ω        R2        ; ~           
+| 220 Ω       R3        ; ~           
+| 220 Ω       R4        ; ~           
+| 220 Ω       R5        ; ~           
+| USB          X1        ; ~           
+| ISP          X2        ; ~           
+| OLED         X3        ; ~           
+| Keyboard     XP1       ; ~           
+| 16 MHz       ZQ1       ; ~           
+#End Cmp
+
+#End List

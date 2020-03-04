@@ -1,0 +1,70 @@
+PCBNEW-LibModule-V1  08/02/2013 12:46:06
+# encoding utf-8
+Units mm
+$INDEX
+pin_array_3x2
+$EndINDEX
+$MODULE pin_array_3x2
+Po 0 0 0 15 42931587 00000000 ~~
+Li pin_array_3x2
+Cd 3x2 pin array with 2.54 mm pitch
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.81 1.016 1.016 0 0.2032 N V 21 N "PIN_ARRAY_3X2"
+T1 0 3.81 1.016 1.016 0 0.2032 N I 21 N "Val**"
+DS 3.81 2.54 -3.81 2.54 0.2032 21
+DS -3.81 -2.54 3.81 -2.54 0.2032 21
+DS 3.81 -2.54 3.81 2.54 0.2032 21
+DS -3.81 2.54 -3.81 -2.54 0.2032 21
+$PAD
+Sh "1" R 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 1.27
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 -1.27
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 1.27
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -1.27
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 1.27
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 -1.27
+$EndPAD
+$SHAPE3D
+Na "3d/pin_array_3x2.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE pin_array_3x2
+$EndLIBRARY

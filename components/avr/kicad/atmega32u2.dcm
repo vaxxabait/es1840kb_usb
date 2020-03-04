@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: Ср 07 июн 2017 02:37:35
+#
+$CMP atmega32u2
+D AVR-Mega MCU with HW USB and 32Kbyte flash
+$ENDCMP
+#
+#End Doc Library

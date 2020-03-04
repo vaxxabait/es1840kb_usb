@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Чт 08 июн 2017 01:02:41
+#
+$CMP ES1840_KB
+D ES1840 keyboard controller socket
+$ENDCMP
+#
+$CMP ES1840_kb_socket
+D ES1840 keyboard controller socket
+$ENDCMP
+#
+#End Doc Library

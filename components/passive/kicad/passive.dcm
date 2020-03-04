@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0  Date: Ср 19 июл 2017 01:54:39
+#
+$CMP C
+D Generic capacitor
+$ENDCMP
+#
+$CMP CPOL
+D Polarized capacitor
+$ENDCMP
+#
+$CMP LED
+D Generic LED
+$ENDCMP
+#
+$CMP R
+D Generic resistor
+$ENDCMP
+#
+$CMP XTAL
+D Generic crystal oscillator
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,81 @@
+Cursive engraving "Made by Michael Tulupov"
+
+HW FEATURES - immediately useful, easy to implement:
+		USB interface
+			USB hid keyboard + extras
+		Backlight
+			addressable ? RGB LED strip
+		Scroll wheel (Jog)
+		Knobs
+		Additional buttons (flat from laptops)
+			Use old gray buttons
+		USB hub
+			USB ports
+			MicroUSB cradle on top
+
+		VFD/Nixie integration
+		Graphic LCD/OLED integration
+			lcd4linux/lcdproc
+HW FEATURES:
+
+		STM32
+
+		Graphic color LCD display
+			lcd4linux, lcdproc
+			Num,Scroll,Caps,RUS/LAT/HEB etc show
+		Soviet VFD display (HID)
+		Nixie clock/digital display
+
+		Capacitive touchscreen
+
+		Internal RGB backlight (addressable LED strip)
+
+		Scroll wheel (Jog)
+		Knobs
+		Capacitive sensors/sliders
+		Additional buttons (flat from laptops)
+		Speaker/Beeper
+		Optical IR sensor for hands
+
+		IR remote receiver
+
+		Ambient light sensor
+
+		Two Trackpads from laptop
+
+		Serial+MIDI,PS/2,USB
+		BT HID/serial, WiFi telnet
+
+		RealTime clock + battery
+
+		iPod/Phone/PDA cradle
+
+		USB 2.0 hub
+			One USB A on front panel (vertical)
+		Card reader
+		Smartcard reader
+		NFC reader
+		RS 232 converter
+
+		USB laptop dock
+			Ethernet interface
+			VGA/DVI (DisplayLink)
+			Audio card
+		
+		Some gesture sensor for hand motions
+
+ SW features
+
+		Different key mappings, programmable
+		Settings change from PC
+		Serial terminal (VT-compat)
+		Keystroke memory, macros
+		Keystroke record/edit/send by hotkey
+		PS/2
+			XT-compat mode thru DIN
+			Agat/Sun/Apple/PDP compat mode ?
+		Midi controller mode
+			Serial/USB
+			Knobs also work
+		Internal calculator, notepad memory
+		Click sound

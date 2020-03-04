@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: Пт 23 июн 2017 17:31:42
+#
+$CMP I2C_SPI_OLED
+D 2.42 inch monochrome OLED display with I2C and SPI interface
+$ENDCMP
+#
+#End Doc Library

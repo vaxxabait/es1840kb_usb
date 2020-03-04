@@ -1,0 +1,116 @@
+PCBNEW-LibModule-V1  Ср 19 июл 2017 02:28:53
+# encoding utf-8
+Units mm
+$INDEX
+i2c_spi_oled
+$EndINDEX
+$MODULE i2c_spi_oled
+Po 0 0 0 15 596EA7BF 00000000 ~~
+Li i2c_spi_oled
+Cd 2.42 inch monochrome OLED display with I2C and SPI interface
+Kw CONN
+Sc 0
+AR 
+Op 0 0 0
+T0 6 -28.5 1.016 1.016 0 0.2032 N V 21 N "I2C_SPI_OLED"
+T1 3.5 11.5 1.016 1.016 0 0.2032 N V 21 N "Val**"
+T2 32 -10 10 5 0 0.15 N V 21 N "DISPLAY ZONE"
+DS 60.5 -26 3.5 3.5 0.15 21
+DS 3.5 -26 60.5 3.5 0.15 21
+DS 3.5 -26 3.5 3.5 0.15 21
+DS 3.5 3.5 60.5 3.5 0.15 21
+DS 60.5 3.5 60.5 -26 0.15 21
+DS 3.5 -26 60.5 -26 0.15 21
+DS -4 13 -4 -30 0.15 21
+DS -4 -30 68 -30 0.15 21
+DS 68 -30 68 13 0.15 21
+DS 68 13 -4 13 0.15 21
+DS -2.77 0.27 -0.23 0.27 0.15 21
+DS -0.23 0.27 -0.23 -17.51 0.15 21
+DS -0.23 -17.51 -2.77 -17.51 0.15 21
+DS -2.77 -17.51 -2.77 0.27 0.15 21
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.8 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2 11
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.8 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 66 11
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.8 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 66 -28
+$EndPAD
+$PAD
+Sh "1" R 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -1
+$EndPAD
+$PAD
+Sh "2" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -3.54
+$EndPAD
+$PAD
+Sh "3" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -6.08
+$EndPAD
+$PAD
+Sh "4" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -8.62
+$EndPAD
+$PAD
+Sh "5" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -11.16
+$EndPAD
+$PAD
+Sh "6" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -13.7
+$EndPAD
+$PAD
+Sh "7" C 1.524 1.524 0 0 900
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.5 -16.24
+$EndPAD
+$PAD
+Sh "" C 3.5 3.5 0 0 0
+Dr 2.8 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po -2 -28
+$EndPAD
+$SHAPE3D
+Na "pin_array_7x1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE i2c_spi_oled
+$EndLIBRARY

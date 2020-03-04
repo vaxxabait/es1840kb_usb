@@ -1,0 +1,22 @@
+
+	Functional pins of DIL-40 package:
+
+		Column choice (one of 16 columns):
+			Pin 12,13,14,15 - column code (output)
+			Pin 21 - enable column code above (output)
+
+		Row choice (one of 6 rows):
+			Pin 16,17,18 - row code (output)
+
+		Key is pressed:
+			Pin 39 - selected key is pressed (input)
+
+		LEDs:
+			Pin 5 - enable LEDs (output)
+			Pin 32 - "Russian" (output)
+			Pin 33 - "Latin" (output)
+			Pin 34 - "Numbers" (output)
+
+		Power:
+			Pin 20 - GND
+			Pin 40 - VCC
